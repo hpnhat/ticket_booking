@@ -1,0 +1,14 @@
+.custom-scrollbar::-webkit-scrollbar {
+    display: block !important;
+    width: 15px !important;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background: rgb(209, 209, 209);
+}
+
+
+.hover:hover .group-hover {
+    display: block;
+    transform: all 0.5s ease-in-out;
+}
